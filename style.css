@@ -1,0 +1,11 @@
+/* src/styles/fonts.css */
+@font-face {
+    font-family: 'CustomFont';
+    src: url('Roboto.zip') format('woff2'),
+         
+  }
+ /* In your main.css */
+body {
+    font-family: 'CustomFont', 'roboto';
+  }
+  
